@@ -2,7 +2,7 @@
 
 # Jittor 热身赛 采用CGAN方法来生成手写数字
 
-![主要结果](https://s3.bmp.ovh/imgs/2022/04/19/440f015864695c92.png)
+![主要结果](https://github.com/zhoupeng99/jittor/blob/main/result.png)
 
 ｜展示方法的流程特点或者主要结果等
 
